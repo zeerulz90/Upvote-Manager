@@ -1,0 +1,10 @@
+.upvoteRemoveList {
+    background-color: #F4F6F8;
+    border-radius: 5px;
+    padding: 3px;
+    margin-right: 15px;
+}
+
+.upvoteRemoveList:hover {
+    cursor: pointer;
+}

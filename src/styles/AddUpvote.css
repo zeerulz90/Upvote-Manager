@@ -1,0 +1,10 @@
+.upvoteAdd {
+    background-color: #F4F6F8;
+    border-radius: 5px;
+    padding: 3px;
+    margin-left: 15px;
+}
+
+.upvoteAdd:hover {
+    cursor: pointer;
+}

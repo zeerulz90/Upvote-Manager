@@ -1,0 +1,12 @@
+.wireframe {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1.5px solid lightgrey;
+    border-radius: 5px;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    min-height: 80px;
+  }
